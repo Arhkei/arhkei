@@ -1,3 +1,3 @@
-### Arhkei
+# Arhkei
 
-# Mainly python programs I've been working on 
+Mainly python programs I've been working on 
