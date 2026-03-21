@@ -2,4 +2,4 @@
 
 Cybersecurity professional
 
-Mainly python programs I've been working on 
+Mainly random projects I've been working on. More to come...
